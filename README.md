@@ -4,10 +4,15 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Cost management- 
 Risk Management-
-Resource Management- 
-Trust-
+Resource Management- Managers should ensure proper resource and also they should ensure that team members are not overburddened
+Trust- 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Ensures Financial Viability: By controlling costs, the project remains within the allocated budget, ensuring the financial health of both the project and the organization
+Maintains Profit Margins: In software development, unforeseen expenses or mismanagement of funds can erode profit margin
+Client Satisfaction: Clients expect projects to be delivered within the agreed budget. If the cost increases significantly, 
+Prevention of Project Delays: Poor cost management can result in resource shortages or financial constraints that slow down progress
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 **Agile:**
 Advantages:
